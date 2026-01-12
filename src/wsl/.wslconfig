@@ -1,0 +1,11 @@
+[wsl2]
+# Allocates 12 GB of memory to the WSL 2 VM
+memory=12GB
+
+# Allocates 4 CPU cores to the WSL 2 VM
+processors=4
+
+# Optional: Disable the automatic memory reclaim feature if desired
+# memoryAutoReclaim=false
+
+# this file should be placed here C:\Users\<YourUserName>\.wslconfig
